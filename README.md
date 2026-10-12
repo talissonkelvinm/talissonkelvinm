@@ -1,9 +1,3 @@
-<!--
-  README de perfil para: talissonkelvinm
-  Para ativar a animação da cobrinha, adicione o arquivo
-  .github/workflows/snake.yml ao repositório de perfil.
--->
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:3B82F6,100:06B6D4&height=190&section=header&text=Talisson%20Kelvin&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Desenvolvimento%20%7C%20Criatividade%20%7C%20Aprendizado&descSize=16&descAlignY=58" alt="Banner animado de Talisson Kelvin" />
 </div>
@@ -17,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/talissonkelvinm"><img src="https://img.shields.io/badge/GitHub-talissonkelvinm-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://github.com/talissonkelvinm?tab=repositories"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rios-6E40C9?style=for-the-badge&logo=git&logoColor=white" alt="Ver repositórios" /></a>
-  <img src="https://komarev.com/ghpvc/?username=talissonkelvinm&style=for-the-badge&color=3B82F6&label=VISITAS+AO+PERFIL" alt="Contador de visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=talissonkelvinm&amp;style=for-the-badge&amp;color=3B82F6&amp;label=VISITAS%20AO%20PERFIL" alt="Contador de visitas ao perfil" />
 </p>
 
 ---
@@ -59,18 +53,17 @@ Gosto de transformar ideias em projetos, explorar novas possibilidades e aprende
   <img width="70%" src="https://streak-stats.demolab.com?user=talissonkelvinm&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 </div>
 
-> As estatísticas são geradas por serviços externos e podem demorar para carregar. O cartão de linguagens representa os códigos encontrados nos repositórios, não uma avaliação de domínio técnico.
 
 ## 📈 Atividade de contribuições
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=talissonkelvinm&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub" />
+  <img width="98%" src="https://ghchart.rshah.org/6E40C9/talissonkelvinm" alt="Mapa de contribuições de Talisson Kelvin no GitHub" />
 </div>
 
 ## 🏆 Conquistas
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=talissonkelvinm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Conquistas do perfil GitHub" />
+  <img width="98%" src="https://trophy.benkou.dev/?username=talissonkelvinm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Conquistas do perfil GitHub" />
 </div>
 
 ## 🐍 Minhas contribuições em movimento
@@ -83,7 +76,6 @@ Gosto de transformar ideias em projetos, explorar novas possibilidades e aprende
   </picture>
 </div>
 
-> **Para ativar a cobrinha:** adicione o arquivo `snake.yml` que acompanha este README em `.github/workflows/snake.yml`, envie para o GitHub e execute o workflow em **Actions**. A animação aparecerá depois que o workflow gerar a branch `output`.
 
 ## 🚀 Projetos
 
