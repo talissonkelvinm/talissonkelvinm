@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/talissonkelvinm"><img src="https://img.shields.io/badge/GitHub-talissonkelvinm-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://github.com/talissonkelvinm?tab=repositories"><img src="https://img.shields.io/badge/Ver-reposit%C3%B3rios-6E40C9?style=for-the-badge&logo=git&logoColor=white" alt="Ver repositórios" /></a>
-  <img src="https://komarev.com/ghpvc/?username=talissonkelvinm&amp;style=for-the-badge&amp;color=3B82F6&amp;label=VISITAS%20AO%20PERFIL" alt="Contador de visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=talissonkelvinm&amp;label=VISITAS+AO+PERFIL&amp;color=3B82F6&amp;style=for-the-badge" alt="Visitas ao perfil" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Gosto de transformar ideias em projetos, explorar novas possibilidades e aprende
 ## 🏆 Conquistas
 
 <div align="center">
-  <img width="98%" src="https://trophy.benkou.dev/?username=talissonkelvinm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Conquistas do perfil GitHub" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=talissonkelvinm&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="Conquistas do perfil GitHub" />
 </div>
 
 ## 🐍 Minhas contribuições em movimento
